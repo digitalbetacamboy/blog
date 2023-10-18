@@ -88,7 +88,7 @@ sections:
           company_logo:
           location: Russain Federation
           date_start: '2019-01-01'
-          date_end: '2023-30-06'
+          date_end: '2023-06-30'
           description: 50 courses with the highest grade.
     design:
       columns: '2'
