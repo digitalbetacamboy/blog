@@ -12,8 +12,17 @@ lastMod: '2019-09-05T00:00:00Z'
 image:
   caption: ''
   focal_point: ''
+  placement: 1
+  preview_only: false
 
-    Welcome to Academic!
+authors:
+  - admin
+
+tags:
+  - Academic
+
+categories:
+  - Demo
 ---
 
 ## Overview
